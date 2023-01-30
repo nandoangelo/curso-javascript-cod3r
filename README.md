@@ -12,7 +12,7 @@
  
  <!-- Banner do curso -->
  <div align="center">
- <a href="https://www.udemy.com/course/curso-web/" alt="imagem do curso" title="Conheça o curso" target="_blank">
-  <img src="https://user-images.githubusercontent.com/4001408/215585507-fd43cefb-ed5b-47b2-b336-6bf423555b39.jpg">
+ <a href="https://www.udemy.com/course/curso-web/" title="Conheça o curso" target="_blank">
+  <img src="https://user-images.githubusercontent.com/4001408/215585507-fd43cefb-ed5b-47b2-b336-6bf423555b39.jpg" alt="imagem do curso">
  </a>
  </div>
