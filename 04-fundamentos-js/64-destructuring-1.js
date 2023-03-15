@@ -55,10 +55,10 @@ const {sobrenome, bemHumorada = true} = pessoa // não existem no objeto
 console.log(sobrenome, bemHumorada) // undefined true
 console.log(pessoa) // objeto continua inalterado
 
-// Destructuring de um objeto dentro do objeto
+// Destructuring de um objeto que está dentro do objeto
 const {endereco: {logradouro, numero, cep}} = pessoa
 console.log(logradouro, numero, cep) // imprime: 'Rua ABC' 1000 undefined
 
-// Mas se o objeto não existe, então teremos um erro:
+// Mas se o objeto procurado não existe, então teremos um erro:
 const {conta: {ag, num}} = pessoa
 console.log(ag, num) // vai exibir um erro no console
