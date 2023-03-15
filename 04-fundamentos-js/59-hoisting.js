@@ -15,5 +15,7 @@ console.log('a = ', a) // a = 2
  * para o topo e depois, mais abaixo, que vai atribuir
  * valor a ela.
  * 
- * Com o 'let' esse efeito de içamento não ocorre
+ * Com o 'let' esse efeito de içamento não ocorre e o 
+ * programa retorna um erro: "Cannot access 'a' before
+ * initialization"
  */
