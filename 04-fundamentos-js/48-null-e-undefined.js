@@ -23,10 +23,3 @@ console.log(produto) // {preco:undefined}
 // -- se quiser deletar um item use:
 // delete produto.preco 
 // console.log(produto.preco) // undefined
-
-
-// link e-book (Dropbox)
-// https://www.dropbox.com/s/hi9gxfmlqq5ztnk/Ebook%20-%20Urg%C3%AAncia%20e%20emerg%C3%AAncia%20cl%C3%ADnico-cir%C3%BArgica%20odontol%C3%B3gica%20na%20aten%C3%A7%C3%A3o%20prim%C3%A1ria%20-%202022%20%285%29%5B1%5D.pdf?dl=0
-// link curto: https://bit.ly/ebook202302
-// outro link curto: https://bit.ly/ebook-urgencia-e-emergencia-2022
-// link BVS: https://pesquisa.bvsalud.org/conass/resource/pt/biblio-1413424

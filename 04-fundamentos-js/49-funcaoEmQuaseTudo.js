@@ -7,7 +7,7 @@
 // Javascript é altamente centrado em funções
 // Se JS fosse um país o presidente seria a função
 // e o objeto o vice-presidente
-// e os arrays seriam ministros... (comparacao do Leo Leitão)
+// e os arrays seriam ministros... (comparacao do prof. Leo Leitão)
 
 console.log(typeof Object) // function
 
