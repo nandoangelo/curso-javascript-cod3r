@@ -14,7 +14,9 @@ const [a, b, c, d] = [3, 5, 1, 15]
 // const b = 5
 // const c = 1
 // const d = 15
+
 // ... ou ...
+
 // const a = 3, b = 5, c = 1, d = 15
 
 // Operadores

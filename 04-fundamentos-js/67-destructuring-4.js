@@ -23,5 +23,6 @@ console.log(rand([50, 40])) // retorna um número entre 40 e 50
 console.log(rand([922])) // retorna um número entre 922 e 1000 (pulou a definicao de max)
 console.log(rand([, 10])) // retorna um número entre 0 e 10 (pulou a definicão de min)
 console.log(rand([])) // retorna um número entre 0 e 1000
+console.log(rand([1002])) // ele recebe no "min" e inverte no teste.
 
-console.log(rand()) // erro
+//console.log(rand()) // erro
